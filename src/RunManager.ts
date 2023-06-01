@@ -7,7 +7,7 @@ const serviceBuildTag = `Tagging`;
 const testProject = `Temp Project`;
 const testBuild = `START TIME: ${Date.now().toLocaleString()} Customized Run`;
 const testName = `Customized Run - ${Date.now().toLocaleString()}`;
-const testAppUrl = `bs://8ddcfb99673077a468208ba3db85cbf8eb98b9a5`;     // Valid for my user, but can be customized to a new value if needed. The app used for this run can be found in https://github.com/webdriverio/native-demo-app/releases
+const testAppUrl = ``;          // Needs a valid Browserstack App url (bs://). The app used for this run can be found in the 'apps' folder or on https://github.com/webdriverio/native-demo-app/releases
 
 const browserstackUser = '';    // Needs any valid browserstack user
 const browserstackKey = '';     // Needs users key
