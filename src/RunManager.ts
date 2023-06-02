@@ -5,7 +5,7 @@ const serviceBuildName = `Standard build`;
 const serviceBuildTag = `Tagging`;
 
 const testProject = `Temp Project`;
-const testBuild = `START TIME: ${Date.now().toLocaleString()} Customized Run`;
+const testBuild = `Default Build`;
 const testName = `Customized Run - ${Date.now().toLocaleString()}`;
 const testAppUrl = ``;          // Needs a valid Browserstack App url (bs://). The app used for this run can be found in the 'apps' folder or on https://github.com/webdriverio/native-demo-app/releases
 
