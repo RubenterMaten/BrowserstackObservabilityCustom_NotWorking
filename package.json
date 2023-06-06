@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@types/mocha": "^10.0.1",
+    "@wdio/browserstack-service": "^8.10.7",
     "expect-webdriverio": "^4.2.3",
     "webdriverio": "^8.10.5"
   }
